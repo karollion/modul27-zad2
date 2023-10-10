@@ -1,0 +1,9 @@
+h1 {
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.darkBody{
+  background: rgb(15, 15, 15);
+  color: chartreuse;
+}
